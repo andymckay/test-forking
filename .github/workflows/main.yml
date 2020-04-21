@@ -12,3 +12,5 @@ jobs:
       run: |
         echo ${{ secrets.A_SECRET }}
         echo ${{ secrets.A_SECRET }} | rev
+
+# some change
